@@ -40,7 +40,7 @@ This is a **toy model** using:
 
 ### Run Locally
 ```bash
-git clone https://github.com/YOUR-USERNAME/tecf-simulation.git
+git clone https://github.com/chez-prefect/tecf-simulation.git
 cd tecf-simulation
 pip install numpy matplotlib
 jupyter notebook tecf_simulation.ipynb
